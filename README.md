@@ -1,0 +1,2 @@
+# CollectionCardPage
+CollectionView实现卡片式滑动效果，带有缩放
