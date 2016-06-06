@@ -436,7 +436,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CollectionCardPage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ymj.CollectionCardPage;
+				PRODUCT_BUNDLE_IDENTIFIER = YANGMEIJUN509;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -447,7 +447,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = CollectionCardPage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ymj.CollectionCardPage;
+				PRODUCT_BUNDLE_IDENTIFIER = YANGMEIJUN509;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -517,6 +517,7 @@
 				5BB04B231CF9918B0088FF54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BB04B241CF9918B0088FF54 /* Build configuration list for PBXNativeTarget "CollectionCardPageTests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +526,7 @@
 				5BB04B261CF9918B0088FF54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BB04B271CF9918B0088FF54 /* Build configuration list for PBXNativeTarget "CollectionCardPageUITests" */ = {
 			isa = XCConfigurationList;
@@ -533,6 +535,7 @@
 				5BB04B291CF9918B0088FF54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
