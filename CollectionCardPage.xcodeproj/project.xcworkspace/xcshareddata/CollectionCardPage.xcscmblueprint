@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "615EF42CF4531C7724184A5D4653F0C8D51E91B9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "569467E69CA1C4916C0D0643A47CD48A302F8785" : 0,
+    "615EF42CF4531C7724184A5D4653F0C8D51E91B9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "884CE516-2459-4956-8DE9-64176A381E03",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "569467E69CA1C4916C0D0643A47CD48A302F8785" : "",
+    "615EF42CF4531C7724184A5D4653F0C8D51E91B9" : "CollectionCardPage\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CollectionCardPage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CollectionCardPage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MaggiezzZ\/CollectionCardPage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "569467E69CA1C4916C0D0643A47CD48A302F8785"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MaggiezzZ\/CollectionCardPage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "615EF42CF4531C7724184A5D4653F0C8D51E91B9"
+    }
+  ]
+}
